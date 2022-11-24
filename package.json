@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "trtc-js-sdk": "^4.15.0"
+  }
+}
